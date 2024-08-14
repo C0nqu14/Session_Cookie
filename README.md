@@ -23,7 +23,6 @@ Siga estas etapas para configurar e executar o projeto localmente:
    cd seu-repositorio
 
 ```
-
 2. **Crie e ative um ambiente virtual**:
 ```bash
 python -m venv venv
