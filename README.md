@@ -22,8 +22,6 @@ Siga estas etapas para configurar e executar o projeto localmente:
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
 
-```
-```
 2. **Instale as dependências**:
 ```bash
 pip install -r requirements.txt
