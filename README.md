@@ -23,13 +23,8 @@ Siga estas etapas para configurar e executar o projeto localmente:
    cd seu-repositorio
 
 ```
-2. **Crie e ative um ambiente virtual**:
-```bash
-python -m venv venv
-source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
-
 ```
-3. **Instale as dependências**:
+2. **Instale as dependências**:
 ```bash
 pip install -r requirements.txt
 
